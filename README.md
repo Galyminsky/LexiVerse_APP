@@ -49,7 +49,8 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 ### Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-This policy is effective as of 2023-08-30
+
+### This policy is effective as of 2023-08-30
 
 ### Contact Us
 
@@ -80,7 +81,8 @@ At some point, we may wish to update the app. The app is currently available on 
 ### Changes to This Terms and Conditions
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
-These terms and conditions are effective as of 2023-08-30
+
+### These terms and conditions are effective as of 2023-08-30
 
 ### Contact Us
 
